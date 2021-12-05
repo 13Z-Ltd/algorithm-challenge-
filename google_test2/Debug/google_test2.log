@@ -1,0 +1,5 @@
+﻿  google_test2.cpp
+C:\Users\13Z\source\repos\google_test2\google_test2\google_test2.cpp(12,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\13Z\source\repos\google_test2\google_test2\google_test2.cpp(15,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\13Z\source\repos\google_test2\google_test2\google_test2.cpp(78,20): warning C4018: '<': signed/unsigned mismatch
+  google_test2.vcxproj -> C:\Users\13Z\source\repos\google_test2\Debug\google_test2.exe
